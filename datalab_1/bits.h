@@ -1,0 +1,27 @@
+
+int bitXor(int, int);
+int test_bitXor(int, int);
+int absVal(int);
+int test_absVal(int);
+int isTmax(int);
+int test_isTmax(int);
+int isLessOrEqual(int, int);
+int test_isLessOrEqual(int, int);
+int byteSwap(int, int, int);
+int test_byteSwap(int, int, int);
+int rotateLeft(int, int);
+int test_rotateLeft(int, int);
+int isPower2(int);
+int test_isPower2(int);
+int allEvenBits();
+int test_allEvenBits();
+int bitParity(int);
+int test_bitParity(int);
+int bitCount(int);
+int test_bitCount(int);
+int upperBits(int);
+int test_upperBits(int);
+int howManyBits(int);
+int test_howManyBits(int);
+int satMul3(int);
+int test_satMul3(int);
